@@ -8,10 +8,6 @@ Linear Regression model trained on 385,182 air quality records from 90 countries
 
 Python | Scikit-learn | Pandas | NumPy | Matplotlib | Seaborn | Statsmodels | Joblib
 
-Dataset
-📥 **Tải tại:** [air\_quality\_worldwide\_2025.csv](https://drive.google.com/file/d/1sm--adJFJDP3XM3WINjXwbJHlqGN0vC9/view?usp=drive_link)
-
-Sau khi tải, đặt file vào thư mục gốc của project.
 
 ## Results
 
